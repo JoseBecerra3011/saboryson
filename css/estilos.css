@@ -1,0 +1,52 @@
+@font-face {
+    font-family: "Raleway-Regular";
+    src: url(../assets/fonts/static/Raleway-Regular.ttf);
+}
+.fondonavegacion{
+    background-color: rgb(116, 116, 116);
+}
+.d-item{
+    height: 600px;
+}
+.d-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
+.hero{
+    color: rgb(105, 48, 48);
+    background-color: rgb(86, 116, 134);
+}
+.colorbody{
+    background-color: rgb(170, 170, 170);
+}
+.galeria{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.hijo{
+    background-color: white;
+    border: 1px;
+    width: 400px;
+    height: 400px;
+}
+.hijo img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.colorbotoncard{
+    background-color: rgb(121, 28, 28);
+    color: white;
+}
+.colorcard{
+    background-color: rgb(86, 116, 134);
+}
+.colorform{
+    background-color: rgb(116, 116, 116);
+}
+.colorfooter{
+    background-color: rgb(116, 116, 116);
+}
